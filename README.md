@@ -5,4 +5,4 @@ a simple gui timer with python and PyQt6
 ```
 pip install PyQt6
 ```
-** You should install Qt Desinger on os to open .ui file and edit on ** 
+**You should install Qt Desinger on os to open .ui file and edit on** 
